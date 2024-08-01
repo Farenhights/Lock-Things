@@ -1,12 +1,5 @@
 # Lock-Things
 
-Claro! Vou criar uma documentação detalhada para o seu projeto LockThings com as especificações fornecidas.
-
----
-
-# LockThings - Documentação
-
-## Descrição do Projeto
 
 O LockThings é um aplicativo Android que permite ao usuário abrir e fechar um cadeado utilizando uma tag NFC pré-definida. O aplicativo utiliza a arquitetura MVVM com Clean Architecture, Kotlin, Coroutines, Data Binding, Constraint Layout, Koin para injeção de dependência e testes unitários.
 
